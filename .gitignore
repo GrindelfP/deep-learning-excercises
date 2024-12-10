@@ -1,8 +1,1 @@
-*.h5
-.DS_Store
-.ipynb_checkpoints/
-*.keras
-data/
-logs/
-*.zip
-masks2
+.ipynb_checkpoints
